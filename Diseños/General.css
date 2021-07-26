@@ -1,0 +1,41 @@
+/*GENERAL*/
+body{
+    margin: 0%;
+    
+}
+.Enlaces{
+    text-align: center;
+    text-decoration: none;
+}
+button{
+    background-color: transparent;
+    border: transparent;
+}
+button:hover{
+    background-color: #D5D5D5;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+/*MODELOS TABLAS*/
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+  td{
+    text-align: left;
+  }
