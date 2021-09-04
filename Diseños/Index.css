@@ -26,9 +26,10 @@ button{
     align-content: center;
     width: 250px;
     padding-top: 10px;
+    transition: 00.4s;
 
 }
 button:hover{
     background-color: #D5D5D5;
-    
+    transition: 0.4s;
 }
